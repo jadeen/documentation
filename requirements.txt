@@ -25,7 +25,7 @@ mkdocs==1.2.3
     # via
     #   -r requirements.in
     #   mkdocs-material
-mkdocs-material==7.1.5
+mkdocs-material==7.3.0
     # via
     #   -r requirements.in
     #   mkdocs-material-extensions
